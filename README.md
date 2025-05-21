@@ -5,7 +5,7 @@ cd /sizning_loyiha_papkangiz
 git init
 
 # 3. GitHubdagi repositoryga ulang (url GitHub sahifasida bo‘ladi)
-git remote add origin https://github.com/USERNAME/REPO_NOMI.git
+git remote add origin https://t.me/uzman_gr
 
 # 4. Barcha fayllarni qo‘shing
 git add .
